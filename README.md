@@ -1,2 +1,2 @@
-# Dat-kham-benh
-đồ án là vậy đó
+# Dali - Skin
+ĐỒ ÁN ANDROID
