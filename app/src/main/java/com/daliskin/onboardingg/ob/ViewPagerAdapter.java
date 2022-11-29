@@ -38,30 +38,5 @@ public class ViewPagerAdapter extends FragmentStatePagerAdapter {
     }
 
 
-//    public ViewPagerAdapter(@NonNull FragmentManager fm, int behavior) {
-//        super(fm, behavior);
-//    }
-//
-//    @NonNull
-//    @Override
-//    public Fragment getItem(int position) {
-//        switch (position) {
-//            case 0:
-//                return new ob1();
-//            case 1:
-//                return new ob2();
-//            case 2:
-//                return new ob3();
-//
-//            default:
-//                return new ob1();
-//
-//        }
-//
-//    }
-//
-//    @Override
-//    public int getCount() {
-//        return 3;
-//    }
+
 }
