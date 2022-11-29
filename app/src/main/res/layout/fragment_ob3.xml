@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ob.ob3"
+    android:orientation="vertical"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp">
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:src="@drawable/ob3"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phòng khám uy tín"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:layout_gravity="center"
+        android:textColor="#263238"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Các phòng khám trên Daili Skin đều nằm trong top những phòng khám uy tín trên toàn thành phố Hồ Chí Minh."
+        android:textSize="14sp"
+        android:fontFamily="sans-serif"
+        android:layout_gravity="center"
+        android:letterSpacing="0.05"
+        android:lineHeight="20dp"
+        android:layout_marginTop="24dp"
+        android:textColor="#263238"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp"
+        android:gravity="end">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDangKy"
+            android:text="Đăng ký"
+            android:textSize="14sp"
+            android:fontFamily="sans-serif"
+            android:layout_gravity="center"
+            android:letterSpacing="0.05"
+            android:lineHeight="20dp"
+            android:textColor="#00ADB5"
+            android:textStyle="bold"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="44dp"
+            android:id="@+id/btnVaoTrangChu"
+            android:text="Vào trang chủ"
+            android:textSize="14sp"
+            android:backgroundTint="#00ADB5"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

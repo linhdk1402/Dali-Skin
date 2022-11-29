@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ob.ob1"
+    android:orientation="vertical"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp">
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:src="@drawable/ob1"
+        android:layout_gravity="center"/>
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bảo mật tối đa"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:layout_gravity="center"
+        android:textColor="#263238"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mọi thông tin của bạn đều được bảo mật một cách kĩ lưỡng, chỉ có bạn mới xem được thông tin của mình, okila nhé."
+        android:textSize="14sp"
+        android:fontFamily="sans-serif"
+        android:layout_gravity="center"
+        android:letterSpacing="0.05"
+        android:lineHeight="20dp"
+        android:layout_marginTop="24dp"
+        android:textColor="#263238"/>
+
+
+</LinearLayout>
