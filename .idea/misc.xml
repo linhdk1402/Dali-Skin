@@ -3,14 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/drawable/br_black_circle.xml" value="0.1045" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/activity_home_not_signup.xml" value="0.209375" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/activity_main.xml" value="0.209375" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/activity_onboarding.xml" value="0.209375" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/activity_sign_up.xml" value="0.209375" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/fragment_ob1.xml" value="0.209375" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/fragment_ob2.xml" value="0.1953125" />
-        <entry key="..\:/VisualStudioCode/android/Dali_Skin/Onboardingg/app/src/main/res/layout/fragment_ob3.xml" value="0.209375" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/activity_home_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/activity_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/fragment_ho_so.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/fragment_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/fragment_phieu_kham.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/fragment_thong_bao.xml" value="0.25416666666666665" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/layout/fragment_trang_chu.xml" value="0.24010416666666667" />
+        <entry key="..\:/NAMBA_UEL/HK1/BT_DIDONG/Dali/app/src/main/res/menu/menu_home.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
